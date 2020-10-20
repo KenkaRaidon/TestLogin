@@ -11,6 +11,6 @@
      <link rel="stylesheet" href="main.css">
  </head>
  <body>
-     
+     <table>Mascotas</table>
  </body>
  </html>
